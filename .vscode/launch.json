@@ -8,7 +8,6 @@
             "name": "Python Debugger: Django",
             "type": "debugpy",
             "request": "launch",
-            "python": "C:/Users/HP/cv_proj/Scripts/python",
             "args": [
                 "runserver"
             ],
